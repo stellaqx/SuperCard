@@ -14,6 +14,7 @@
 		97884BF8244FB4DA009FB29C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97884BF7244FB4DA009FB29C /* Assets.xcassets */; };
 		97884BFB244FB4DA009FB29C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97884BF9244FB4DA009FB29C /* LaunchScreen.storyboard */; };
 		97884BFE244FB4DA009FB29C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 97884BFD244FB4DA009FB29C /* main.m */; };
+		97884C06244FB557009FB29C /* PlayingCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = 97884C05244FB557009FB29C /* PlayingCardView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		97884BFA244FB4DA009FB29C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97884BFC244FB4DA009FB29C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97884BFD244FB4DA009FB29C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		97884C04244FB557009FB29C /* PlayingCardView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlayingCardView.h; sourceTree = "<group>"; };
+		97884C05244FB557009FB29C /* PlayingCardView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlayingCardView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				97884BF1244FB4D8009FB29C /* ViewController.h */,
 				97884BF2244FB4D8009FB29C /* ViewController.m */,
 				97884BF4244FB4D8009FB29C /* Main.storyboard */,
+				97884C04244FB557009FB29C /* PlayingCardView.h */,
+				97884C05244FB557009FB29C /* PlayingCardView.m */,
 				97884BF7244FB4DA009FB29C /* Assets.xcassets */,
 				97884BF9244FB4DA009FB29C /* LaunchScreen.storyboard */,
 				97884BFC244FB4DA009FB29C /* Info.plist */,
@@ -150,6 +155,7 @@
 				97884BED244FB4D8009FB29C /* AppDelegate.m in Sources */,
 				97884BFE244FB4DA009FB29C /* main.m in Sources */,
 				97884BF0244FB4D8009FB29C /* SceneDelegate.m in Sources */,
+				97884C06244FB557009FB29C /* PlayingCardView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
